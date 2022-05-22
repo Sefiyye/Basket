@@ -1,0 +1,30 @@
+.container .row p {
+  font-size: 12px;
+}
+
+.button {
+  width: 90%;
+}
+
+.button:hover {
+  background-color: red;
+  color: white;
+}
+
+.card {
+  border: none;
+}
+
+span {
+  margin: 10px;
+}
+
+.img {
+  margin-left: 9%;
+}
+
+.circle {
+  font-size: 20px;
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
